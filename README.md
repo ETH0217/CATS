@@ -1,4 +1,6 @@
 # CATS
+Ligne ajouté depuis github
+
 # Prototype de référentiel de paramètres sur Git
 
 *Nota : n'hésitez pas à vous inspirer des scripts présent dans le répertoire `bin` de chaque
