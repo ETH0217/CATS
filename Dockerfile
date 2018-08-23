@@ -1,5 +1,5 @@
 #
-FROM ttp10-dckreg.ca-technologies.fr/asc/im_asc_fabo_jnk_agnt:1.0.4
+FROM ttp10-dckreg.ca-technologies.fr/asc/im_asc_fabo_jnk_agnt:1.0.5
 
 ARG PATH_PROJET_RIT=/opt/Donnees/RIT-Projets
 
